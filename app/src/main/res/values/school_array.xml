@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="school_array">
+        <item>KAIST</item>
+        <item>University of Malaya</item>
+    </string-array>
+</resources>
